@@ -48,6 +48,14 @@
     "ssri": "^8.0.0",
     "typescript": "^3.9.5"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "sam",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samyaktanted/web.git"
+  },
+  "bugs": {
+    "url": "https://github.com/samyaktanted/web/issues"
+  },
+  "homepage": "https://github.com/samyaktanted/web#readme"
 }
